@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mo/Documents/PcProject/py3.6/Model/vgg/vgg16"
+all_model_checkpoint_paths: "/home/mo/Documents/PcProject/py3.6/Model/vgg/vgg16"

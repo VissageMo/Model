@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mo/Documents/PcProject/py3.6/Model/alex/alex_net"
+all_model_checkpoint_paths: "/home/mo/Documents/PcProject/py3.6/Model/alex/alex_net"
